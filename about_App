@@ -1,0 +1,15 @@
+This Mobile App was built using React Native with the help of Expo Client on iOS device/simulator. You can equally run it on your Android device
+
+HOW TO USE APP
+****************** Add Task ******************
+When you Click on Add Task a Modal will be displayed requesting you to input your task
+After Your task has been inputed in the text input you then click on Add
+Modal will be closed and your inputed text will be displayed
+You can go through the process again to add more tasks and they will all be displayed for you
+
+****************** Delete Task ******************
+To Delete a task you will need to go to the tasks display and long press to delete task of your choice
+
+****************** Cancel/Close Modal ******************
+When you Click on Add Task a Modal will be displayed requesting you to input your task
+If you have no need of adding a task you can click on the Cancel button which will close the modal automatically.
